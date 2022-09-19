@@ -1,5 +1,13 @@
-# Recriando a página inicial do Instagram
+# "Recriando" a página inicial do Instagram
 
-- Aqui foi "recriado" a página do Instagram usando apenas HTML e CSS.
+## 🛠️ Tecnologias
+- HTML
+- CSS
 
-Link para visualização : https://recriando-instagram.netlify.app
+## 🧠 Aprendizado
+
+- foi uma página simples de se fazer mas que deu pra reforçar os conceitos de Flexbox.
+
+## 👨‍💻 Visualização do projeto
+
+- Link para visualização : https://recriando-instagram.netlify.app
